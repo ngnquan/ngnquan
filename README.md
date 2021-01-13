@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- Currently, I'm AI Researcher, working on [Cinnamon AI](https://cinnamon.is/). 
+
+<a href="#">
+<img align=right src="https://github-readme-stats.vercel.app/api?username=ngnquan&show_icons=true&theme=tokyonight&count_private=true&hide=contribs">
+</a>
+
 <!--
 **ngnquan/ngnquan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
