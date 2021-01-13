@@ -3,7 +3,7 @@
 - Currently, I'm AI Researcher, working on [Cinnamon AI](https://cinnamon.is/). 
 
 <a href="#">
-<img align=right src="https://github-readme-stats.vercel.app/api?username=ngnquan&show_icons=true&theme=tokyonight&count_private=true&hide=contribs">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ngnquan&count_private=true&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af&hide=contribs">
 </a>
 
 <!--
